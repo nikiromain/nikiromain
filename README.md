@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikiromain
-- 👀 I’m interested in web development and assistive technology for kids with learning disablilites 
-- 🌱 I’m currently enrolled in full stack development
+- 👀 I’m interested developing assistive technologies for kids with learning disablilites 
 - 💞️ I’m looking to collaborate on your next unique digital project. 
 - 📫 How to reach me ...
 
